@@ -6,7 +6,7 @@
 
 🔭 I’m looking for opportunities to grow as a software developer.  
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/).  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaskaran-mehmy/).  
 
 ⚡ Fun fact: I started with VirtualBox experiments and a passion for tech!
 
